@@ -44,5 +44,4 @@ This project contains a relational database schema tailored for a **Peer-to-Peer
    - Define stored procedures
    - Add triggers
 
-```bash
-mysql -u your_username -p < schema.sql
+
